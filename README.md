@@ -1,3 +1,8 @@
+![](key_recommendations.jpg)
+
+[Analysis Notebook](analyze_foodhub_orders.ipynb) <br>
+[Slide Deck](FoodHubAnalysisSummary.pdf)
+
 ## Problem Statement
 
 A food aggregator company aims to enhance its customer experience by understanding the demand patterns across various restaurants and cuisines. As a Data Scientist, your task is to perform an exploratory data analysis (EDA) on the company's order dataset. The analysis should uncover insights into customer preferences, restaurant popularity, order costs, delivery and preparation times, and customer ratings. Your findings will help the company identify trends, address operational bottlenecks, and make data-driven decisions to improve business performance.
